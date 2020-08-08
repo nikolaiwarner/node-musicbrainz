@@ -27,6 +27,7 @@
     "lib": "./lib"
   },
   "dependencies": {
+    "node-fetch": "^2.6.0",
     "querystring": "^0.2.0",
     "request": "^2.88.2",
     "timetrickle": "~0.1.1",
